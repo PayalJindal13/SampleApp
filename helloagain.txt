@@ -1,1 +1,2 @@
 Hello againgit status
+This is a text file
